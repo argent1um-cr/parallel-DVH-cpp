@@ -19,7 +19,7 @@
 #define PCLOSE pclose
 #endif
 
-const int MAX_GRID_INDEX = 100000; // Порог для проверки "выбросов" индексов
+const int MAX_GRID_INDEX = 200; // Порог для проверки "выбросов" индексов
 
 struct GraphPoint {
     double doseVal;
