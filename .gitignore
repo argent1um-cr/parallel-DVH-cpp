@@ -1,0 +1,13 @@
+# Compiled binaries
+*.exe
+*.o
+*.out
+*.app
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Large data files (optional, if you don't want to commit huge files)
+# data/*.txt
+# !data/small_*.txt
